@@ -1,7 +1,7 @@
 ---
 api:
-  url: https://fhir-sandbox.healow.com/apps/api/v1/fhir/
-  patient: 9118
+  url: https://fhir-sandbox.eclinicalworks.com:8443/FHIRServer/fhir/HEFBCA/
+  patient: d2c64e70-8adb-e2db-c3a6-13d0483ceef9
 
 auth:
   strategy: authorization_code
